@@ -2046,3 +2046,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 03:18:04.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Not Today, Thank You]
 [02Dec2024 03:19:00.484] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/34047, l='ServerLevel[world]', x=-13.18, y=75.41, z=16.16] died: Undead Knight suffocated in a wall
 [02Dec2024 03:22:44.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [My Name is Nobody]
+[02Dec2024 03:23:06.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[02Dec2024 03:25:07.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has reached the goal [Half a flight]
+[02Dec2024 03:25:25.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has reached the goal [Half a flight]
+[02Dec2024 03:27:27.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has made the advancement [What a Deal!]
+[02Dec2024 03:28:35.444] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Dec2024 03:29:53.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Alex's Mobs]
+[02Dec2024 03:30:17.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[02Dec2024 03:30:24.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Dec2024 03:30:24.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Dec2024 03:30:25.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus_50 lost connection: Server closed
+[02Dec2024 03:30:25.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 left the game
+[02Dec2024 03:30:25.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: K1ngKn1ght lost connection: Server closed
+[02Dec2024 03:30:26.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght left the game
+[02Dec2024 03:30:26.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Dec2024 03:30:27.705] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1048}
+[02Dec2024 03:30:27.767] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=1048}
+[02Dec2024 03:30:27.772] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=1048}
+[02Dec2024 03:30:27.773] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=1048}
+[02Dec2024 03:30:27.774] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1048}
+[02Dec2024 03:30:27.774] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1049}
+[02Dec2024 03:30:27.775] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=1051}
+[02Dec2024 03:30:27.775] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-17, y=-54, z=1050}
+[02Dec2024 03:30:32.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Dec2024 03:30:38.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Dec2024 03:30:38.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[02Dec2024 03:30:38.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[02Dec2024 03:30:38.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Dec2024 03:30:38.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Dec2024 03:30:38.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Dec2024 03:30:38.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[02Dec2024 03:30:38.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[02Dec2024 03:30:38.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Dec2024 03:30:38.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Dec2024 03:30:38.995] [Thread-14/INFO] [com.craftjakob.configapi.ConfigAPI/]: Config file configapi-server.cfg changed, reloading config...
+[02Dec2024 03:30:38.997] [Server thread/INFO] [com.craftjakob.configapi.ConfigAPI/]: The tracking of config file configapi-server.cfg was stopped.
