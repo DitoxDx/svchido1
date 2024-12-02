@@ -1914,3 +1914,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 01:28:05.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Diamonds!]
 [02Dec2024 01:28:31.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has made the advancement [Acquire Hardware]
 [02Dec2024 01:28:36.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has made the advancement [Diamonds!]
+[02Dec2024 01:30:00.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02Dec2024 01:30:20.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5126ms or 102 ticks behind
+[02Dec2024 01:30:39.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4539ms or 90 ticks behind
+[02Dec2024 01:35:48.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Not a Diamond]
+[02Dec2024 01:36:02.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Apothic Affixes]
+[02Dec2024 01:36:02.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Suit Up]
+[02Dec2024 01:36:02.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Acquire Hardware]
+[02Dec2024 01:36:02.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has reached the goal [Worthy Equipment]
+[02Dec2024 01:36:04.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Diamonds!]
+[02Dec2024 01:37:01.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02Dec2024 01:37:20.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3728ms or 74 ticks behind
+[02Dec2024 01:43:04.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DitoDx: Created new objective [health]]
+[02Dec2024 01:43:13.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Isn't It Iron Pick]
+[02Dec2024 01:43:18.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has made the advancement [Isn't It Iron Pick]
+[02Dec2024 01:43:20.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DitoDx: Set display slot list to show objective health]
+[02Dec2024 01:46:08.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DitoDx: Teleported DitoDx to Agus_50]
+[02Dec2024 01:47:24.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Not a Diamond]
+[02Dec2024 01:47:32.242] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp]] from pos BlockPos{x=437, y=74, z=-171}
+[02Dec2024 01:47:34.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has made the advancement [Not a Diamond]
+[02Dec2024 01:47:41.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5567ms or 111 ticks behind
+[02Dec2024 01:47:41.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: K1ngKn1ght moved too quickly! 9.718198077945203,-0.8245767040478995,3.1009792067208366
+[02Dec2024 01:48:02.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has made the advancement [Monster Hunter]
+[02Dec2024 01:48:14.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [I Found It Underground]
+[02Dec2024 01:48:19.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has made the advancement [I Found It Underground]
+[02Dec2024 01:48:26.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has made the advancement [Far From Perfect]
+[02Dec2024 01:48:33.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Far From Perfect]
+[02Dec2024 01:52:16.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has made the advancement [Sweet Dreams]
+[02Dec2024 01:53:29.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Sweet Dreams]
+[02Dec2024 01:56:02.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght was slain by Ancient Knight
+[02Dec2024 01:57:15.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Bypassing the Expiration Date]
+[02Dec2024 01:57:58.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[02Dec2024 02:01:28.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has reached the goal [Quaint Scribe]
+[02Dec2024 02:01:29.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has made the advancement [Not Today, Thank You]
+[02Dec2024 02:01:43.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Into Fire]
+[02Dec2024 02:01:53.056] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Captain Hera the Boring'/12248, l='ServerLevel[world]', x=212.98, y=174.00, z=56.33] died: Captain Hera the Boring was slain by Agus_50
+[02Dec2024 02:01:53.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has completed the challenge [He Wasn't So Strong]
