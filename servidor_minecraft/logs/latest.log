@@ -1950,3 +1950,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 02:01:43.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Into Fire]
 [02Dec2024 02:01:53.056] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Captain Hera the Boring'/12248, l='ServerLevel[world]', x=212.98, y=174.00, z=56.33] died: Captain Hera the Boring was slain by Agus_50
 [02Dec2024 02:01:53.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has completed the challenge [He Wasn't So Strong]
+[02Dec2024 02:02:02.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has reached the goal [Worthy Equipment]
+[02Dec2024 02:02:08.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Tools of the Trade]
+[02Dec2024 02:02:41.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Ice Bucket Challenge]
+[02Dec2024 02:05:47.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has completed the challenge [Overkill]
+[02Dec2024 02:05:48.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Tools of the Trade]
+[02Dec2024 02:06:36.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Ice Bucket Challenge]
+[02Dec2024 02:06:41.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has completed the challenge [He Wasn't So Strong]
+[02Dec2024 02:06:52.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has made the advancement [Ice Bucket Challenge]
+[02Dec2024 02:08:15.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [I Found It Underground]
+[02Dec2024 02:09:05.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Magery]
+[02Dec2024 02:09:43.221] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Axolotl['Crystal'/124, l='ServerLevel[world]', x=63.50, y=127.00, z=107.50] died: Crystal died from dehydration
+[02Dec2024 02:13:21.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Monster Hunter]
+[02Dec2024 02:13:22.367] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[02Dec2024 02:13:22.368] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[02Dec2024 02:13:55.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Bypassing the Expiration Date]
+[02Dec2024 02:15:03.524] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/237, l='ServerLevel[world]', x=179.50, y=113.00, z=157.50] died, message: 'Unemployed cooked in K1ngKn1ght's fiery field'
+[02Dec2024 02:15:25.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has made the advancement [Junior Summoner]
+[02Dec2024 02:15:26.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has made the advancement [Piece of Chaos]
+[02Dec2024 02:16:36.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Monster Hunter]
+[02Dec2024 02:17:50.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Sweet Dreams]
+[02Dec2024 02:20:04.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Piece of Chaos]
+[02Dec2024 02:20:27.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Suit Up]
+[02Dec2024 02:20:54.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Piece of Chaos]

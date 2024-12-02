@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/emerald_gear_helmet": {
+    "criteria": {
+      "has_emerald": "2024-12-02 02:03:05 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_slayer": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 01:28:31 +0000"
@@ -38,6 +44,12 @@
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2024-12-02 01:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-02 02:01:29 +0000"
     },
     "done": true
   },
@@ -167,6 +179,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_the_beginning": {
+    "criteria": {
+      "has_obsidian": "2024-12-02 02:06:52 +0000"
+    },
+    "done": true
+  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2024-12-02 01:12:19 +0000"
@@ -182,6 +200,18 @@
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-02 01:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-02 02:16:24 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2024-12-02 02:06:52 +0000"
     },
     "done": true
   },
@@ -248,6 +278,12 @@
   "xercapaint:recipes/item_easel": {
     "criteria": {
       "has_item": "2024-12-02 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-02 02:08:41 +0000"
     },
     "done": true
   },
@@ -407,6 +443,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/snow_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-02 02:16:36 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/shields/shield_tower_guard": {
     "criteria": {
       "has_copper_ingot": "2024-12-02 01:25:52 +0000"
@@ -491,6 +533,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/mercenary_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-02 02:16:36 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/iron_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 01:28:31 +0000"
@@ -536,6 +584,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 01:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-02 02:11:43 +0000"
     },
     "done": true
   },
@@ -722,6 +776,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 01:28:31 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/chainmail_backtank": {
+    "criteria": {
+      "has_backtank": "2024-12-02 02:01:54 +0000"
     },
     "done": true
   },
@@ -977,6 +1037,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-12-02 02:15:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-02 01:17:11 +0000"
@@ -1067,6 +1133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-02 02:08:41 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_slicer": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 01:28:31 +0000"
@@ -1124,6 +1196,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-02 01:17:11 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2024-12-02 02:06:52 +0000"
     },
     "done": true
   },
@@ -1307,6 +1385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-02 02:03:05 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/fabric_bolt_magenta": {
     "criteria": {
       "has_stick": "2024-12-02 01:16:53 +0000"
@@ -1328,6 +1412,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-02 01:17:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-02 02:08:41 +0000"
     },
     "done": true
   },
@@ -1358,6 +1448,12 @@
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2024-12-02 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-02 02:16:36 +0000"
     },
     "done": true
   },
@@ -1451,6 +1547,12 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/brake": {
+    "criteria": {
+      "has_item": "2024-12-02 02:06:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-02 01:55:25 +0000"
@@ -1496,6 +1598,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 01:28:31 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pieceof_chaos": {
+    "criteria": {
+      "pieceof_chaos_0": "2024-12-02 02:15:26 +0000"
     },
     "done": true
   },
@@ -1685,6 +1793,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_sinister": {
+    "criteria": {
+      "has_obsidian": "2024-12-02 02:06:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-02 01:16:53 +0000"
@@ -1835,8 +1949,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-02 02:16:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-02 02:08:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "potato": "2024-12-02 02:15:59 +0000",
       "bread": "2024-12-02 01:51:32 +0000",
       "glow_berries": "2024-12-02 01:25:30 +0000",
       "beetroot": "2024-12-02 01:26:04 +0000",
@@ -2278,9 +2405,18 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2024-12-02 01:48:02 +0000"
+      "minecraft:skeleton": "2024-12-02 02:17:42 +0000",
+      "minecraft:spider": "2024-12-02 01:48:02 +0000",
+      "minecraft:stray": "2024-12-02 02:01:53 +0000",
+      "minecraft:zombie": "2024-12-02 02:14:57 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-02 02:11:43 +0000"
+    },
+    "done": true
   },
   "mcdw:recipes/swords/sword_iron_sword_var": {
     "criteria": {
@@ -2333,6 +2469,12 @@
   "supplementaries:recipes/bomb": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 01:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-02 02:08:41 +0000"
     },
     "done": true
   },
@@ -2459,6 +2601,12 @@
   "mcda:recipes/crafting_items/fabric_bolt_lime": {
     "criteria": {
       "has_stick": "2024-12-02 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_hawkbrand": {
+    "criteria": {
+      "has_emerald": "2024-12-02 02:03:05 +0000"
     },
     "done": true
   },
@@ -2627,6 +2775,12 @@
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2024-12-02 01:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-02 02:06:52 +0000"
     },
     "done": true
   },
@@ -2996,6 +3150,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-12-02 02:13:55 +0000"
+    },
+    "done": false
+  },
   "mcda:recipes/base_armors/sweet_tooth_boots": {
     "criteria": {
       "has_diamond": "2024-12-02 01:28:36 +0000"
@@ -3254,6 +3414,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_obsidian": "2024-12-02 02:06:52 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/florus_boat": {
     "criteria": {
       "in_water": "2024-12-02 01:44:33 +0000"
@@ -3272,9 +3438,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/shulker_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2024-12-02 02:16:36 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/diamond_tower_shield": {
     "criteria": {
       "has_diamond": "2024-12-02 01:28:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2024-12-02 02:03:05 +0000"
     },
     "done": true
   },
@@ -3554,6 +3732,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_the_end": {
+    "criteria": {
+      "has_obsidian": "2024-12-02 02:06:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-02 01:28:14 +0000"
@@ -3644,9 +3828,21 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2024-12-02 02:01:53 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/wolf": {
     "criteria": {
       "has_bone": "2024-12-02 01:22:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_green": {
+    "criteria": {
+      "has_emerald": "2024-12-02 02:03:05 +0000"
     },
     "done": true
   },
@@ -3713,6 +3909,12 @@
   "mcdw:recipes/bows/bow_snow_bow": {
     "criteria": {
       "has_string": "2024-12-02 01:48:21 +0000"
+    },
+    "done": true
+  },
+  "creategoggles:recipes/iron_backtank": {
+    "criteria": {
+      "has_backtank": "2024-12-02 02:16:36 +0000"
     },
     "done": true
   },
@@ -3845,6 +4047,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-02 01:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-02 02:06:52 +0000"
     },
     "done": true
   },
