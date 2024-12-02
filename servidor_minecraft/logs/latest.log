@@ -1973,3 +1973,58 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 02:20:04.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Piece of Chaos]
 [02Dec2024 02:20:27.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Suit Up]
 [02Dec2024 02:20:54.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Piece of Chaos]
+[02Dec2024 02:22:36.580] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/10889, l='ServerLevel[world]', x=272.64, y=65.00, z=180.33] died, message: 'Armorer was toasted by K1ngKn1ght's flaming breath'
+[02Dec2024 02:24:21.478] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/10890, l='ServerLevel[world]', x=264.30, y=69.00, z=204.16] died, message: 'Armorer was slain by DitoDx'
+[02Dec2024 02:30:20.114] [Worker-Main-8/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[02Dec2024 02:32:28.419] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[02Dec2024 02:32:45.213] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[02Dec2024 02:33:09.503] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[02Dec2024 02:36:04.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <K1ngKn1ght> xaero-waypoint:Shared Location:S:918:65:44:14:false:0:Internal-overworld-waypoints
+[02Dec2024 02:37:33.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Life turned out to be a comedy]
+[02Dec2024 02:38:12.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has made the advancement [Ol' Betsy]
+[02Dec2024 02:38:12.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has made the advancement [Take Aim]
+[02Dec2024 02:38:17.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has made the advancement [Tie me to the Mast]
+[02Dec2024 02:38:37.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Not Today, Thank You]
+[02Dec2024 02:38:49.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has reached the goal [Fighting Nightmares]
+[02Dec2024 02:40:54.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Sea? Not a Problem]
+[02Dec2024 02:46:47.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Agus_50) moved wrongly! 0.35207633305361696
+[02Dec2024 02:46:47.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Agus_50) moved wrongly! 0.7066401680194616
+[02Dec2024 02:46:47.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Agus_50) moved wrongly! 1.0655036510123779
+[02Dec2024 02:46:47.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Agus_50) moved wrongly! 1.4283208569940342
+[02Dec2024 02:46:47.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Agus_50) moved wrongly! 1.794758942568933
+[02Dec2024 02:46:47.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Agus_50) moved wrongly! 2.1644986195516793
+[02Dec2024 02:46:47.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Agus_50) moved wrongly! 2.558107607375206
+[02Dec2024 02:46:51.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Agus_50) moved wrongly! 0.3235665437221087
+[02Dec2024 02:46:51.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Agus_50) moved wrongly! 0.5007424716496871
+[02Dec2024 02:46:51.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Agus_50) moved wrongly! 1.0459385546220945
+[02Dec2024 02:46:51.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Agus_50) moved wrongly! 1.12433353672181
+[02Dec2024 02:46:51.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Agus_50) moved wrongly! 1.531272402604242
+[02Dec2024 02:46:51.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Agus_50) moved wrongly! 1.3419065035410724
+[02Dec2024 02:47:26.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Alex's Caves]
+[02Dec2024 02:47:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has made the advancement [Alex's Caves]
+[02Dec2024 02:47:31.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Alex's Caves]
+[02Dec2024 02:47:36.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Once Upon a Cave]
+[02Dec2024 02:48:58.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[02Dec2024 02:50:50.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DitoDx) moved too quickly! 0.3681647908864534,4.04440925194649E-11,10.377627170438984
+[02Dec2024 02:50:50.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Agus_50) moved too quickly! 3.8350487846696524,0.0,9.520412964298146
+[02Dec2024 02:50:50.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DitoDx) moved too quickly! 0.3987181080869959,4.0323300254385686E-11,10.776064067418815
+[02Dec2024 02:50:50.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Agus_50) moved too quickly! 3.993996662086033,0.0,9.886293117170283
+[02Dec2024 02:50:50.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DitoDx) moved too quickly! 0.43080408027685735,4.098410499864258E-11,11.17439283202583
+[02Dec2024 02:50:50.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Agus_50) moved too quickly! 4.152307468806725,0.0,9.970605977570187
+[02Dec2024 02:50:50.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DitoDx) moved too quickly! 0.46434562643548816,4.217781679471955E-11,11.572615400133145
+[02Dec2024 02:50:50.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Agus_50) moved too quickly! 4.309981079067143,0.0,10.007607945000302
+[02Dec2024 02:50:50.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DitoDx) moved too quickly! 0.4992657400607641,4.367706196717336E-11,11.970734277711017
+[02Dec2024 02:50:50.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of DitoDx) moved too quickly! 0.5354874873049766,4.5275783122633584E-11,12.36875252106995
+[02Dec2024 02:52:02.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Ol' Betsy]
+[02Dec2024 02:52:02.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Take Aim]
+[02Dec2024 02:52:34.978] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/24979, l='ServerLevel[world]', x=881.63, y=63.00, z=420.03] died, message: 'Unemployed was toasted by K1ngKn1ght's flaming breath'
+[02Dec2024 02:53:12.663] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Matt the Nifty'/26434, l='ServerLevel[world]', x=863.61, y=63.14, z=457.26] died: Matt the Nifty was slain by DitoDx
+[02Dec2024 02:54:53.066] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[02Dec2024 02:55:52.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Dec2024 02:56:08.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [The Secrets of Enchanting]
+[02Dec2024 02:58:31.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [Far From Perfect]
+[02Dec2024 02:58:52.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has made the advancement [It Belongs in a Museum]
+[02Dec2024 03:01:12.872] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/29177, l='ServerLevel[world]', x=1091.35, y=58.25, z=723.19] died: Honeyed Archer suffocated in a wall
+[02Dec2024 03:03:22.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <K1ngKn1ght> xaero-waypoint:Shared Location:S:1028:50:568:9:false:0:Internal-overworld-waypoints
+[02Dec2024 03:08:47.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has completed the challenge [Just a Flesh Wound]
+[02Dec2024 03:11:33.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DitoDx> t
