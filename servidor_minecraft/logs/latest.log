@@ -2028,3 +2028,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Dec2024 03:03:22.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <K1ngKn1ght> xaero-waypoint:Shared Location:S:1028:50:568:9:false:0:Internal-overworld-waypoints
 [02Dec2024 03:08:47.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght has completed the challenge [Just a Flesh Wound]
 [02Dec2024 03:11:33.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DitoDx> t
+[02Dec2024 03:13:56.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx was slain by Agus_50
+[02Dec2024 03:13:56.957] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[02Dec2024 03:13:56.960] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 24 is dual wielding: false
+[02Dec2024 03:13:56.960] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[02Dec2024 03:13:56.961] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[02Dec2024 03:13:56.962] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[02Dec2024 03:15:32.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has reached the goal [Fighting Nightmares]
+[02Dec2024 03:16:22.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K1ngKn1ght was slain by Arun the AC Rizzlord
+[02Dec2024 03:16:42.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=103, z=-1}
+[02Dec2024 03:16:43.302] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=102, z=-2}
+[02Dec2024 03:16:44.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=102, z=-1}
+[02Dec2024 03:16:45.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=8, y=102, z=-2}
+[02Dec2024 03:16:53.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus_50 has reached the goal [Exorcism]
+[02Dec2024 03:16:53.969] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Arun the AC Rizzlord'/33165, l='ServerLevel[world]', x=1062.40, y=69.17, z=637.15] died: Arun the AC Rizzlord was slain by Agus_50
+[02Dec2024 03:17:06.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DitoDx: Teleported K1ngKn1ght to DitoDx]
+[02Dec2024 03:18:04.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [Not Today, Thank You]
+[02Dec2024 03:19:00.484] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/34047, l='ServerLevel[world]', x=-13.18, y=75.41, z=16.16] died: Undead Knight suffocated in a wall
+[02Dec2024 03:22:44.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DitoDx has made the advancement [My Name is Nobody]

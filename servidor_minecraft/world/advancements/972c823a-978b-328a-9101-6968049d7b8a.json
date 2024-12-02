@@ -919,7 +919,8 @@
       "minecraft:dripstone_caves": "2024-12-02 01:23:33 +0000",
       "minecraft:forest": "2024-12-02 02:37:11 +0000",
       "minecraft:ocean": "2024-12-02 02:37:57 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-02 02:51:17 +0000"
+      "minecraft:old_growth_birch_forest": "2024-12-02 02:51:17 +0000",
+      "minecraft:plains": "2024-12-02 03:20:11 +0000"
     },
     "done": false
   },
@@ -980,6 +981,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-02 02:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-02 03:18:04 +0000"
     },
     "done": true
   },
@@ -1193,6 +1200,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/goat_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-02 03:17:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2024-12-02 03:03:41 +0000"
@@ -1316,6 +1329,12 @@
   "mcdw:recipes/swords/sword_masters_katana": {
     "criteria": {
       "has_diamond": "2024-12-02 01:28:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-02 03:15:32 +0000"
     },
     "done": true
   },
@@ -2093,6 +2112,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/scale_mail_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-02 03:17:23 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/coal": {
     "criteria": {
       "has_coal": "2024-12-02 01:19:29 +0000"
@@ -2324,6 +2349,12 @@
   "mcdw:recipes/bows/bow_trickbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 01:27:57 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_verdant": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-02 03:20:02 +0000"
     },
     "done": true
   },
@@ -2765,6 +2796,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-02 03:16:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-02 01:45:06 +0000"
@@ -2822,6 +2859,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-02 03:03:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-02 03:17:23 +0000"
     },
     "done": true
   },
@@ -3528,6 +3571,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-02 02:15:02 +0000",
       "minecraft:skeleton": "2024-12-02 02:41:44 +0000",
+      "minecraft:spider": "2024-12-02 03:15:51 +0000",
       "minecraft:zombie": "2024-12-02 02:13:21 +0000",
       "minecraft:drowned": "2024-12-02 02:41:40 +0000"
     },
@@ -4062,6 +4106,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/climbing_gear_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-02 03:17:23 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/skyris_boat": {
     "criteria": {
       "in_water": "2024-12-02 01:23:04 +0000"
@@ -4578,6 +4628,12 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_spider": {
+    "criteria": {
+      "has_core_specification_item": "2024-12-02 03:16:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-02 01:29:46 +0000"
@@ -4678,6 +4734,7 @@
     "criteria": {
       "biomeswevegone:temperate_grove": "2024-12-02 01:52:06 +0000",
       "biomeswevegone:forgotten_forest": "2024-12-02 02:27:50 +0000",
+      "biomeswevegone:orchard": "2024-12-02 03:19:38 +0000",
       "biomeswevegone:allium_shrubland": "2024-12-02 02:29:38 +0000"
     },
     "done": false
@@ -5231,6 +5288,12 @@
   "biomeswevegone:recipes/transportation/zelkova_boat": {
     "criteria": {
       "in_water": "2024-12-02 01:23:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_leather_boots": "2024-12-02 03:17:23 +0000"
     },
     "done": true
   },
